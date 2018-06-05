@@ -1,0 +1,15 @@
+This Bot will post a new Tweet every hour until it runs out of dialogue.
+Lots went into this code, many hours were used to get it to work.
+Step by step here is how I did it.
+1. Learn Python, this was the longest step. Many, many weeks.
+2. Make the code to be used. This meant a lot of referencing my old lessons as well as googling many questions.
+3. Fix all the errors, it isn't coding without errors. This meant testing the code.
+4. Downloading Python, more complicated than it sounds since I downloaded the wrong version and then had to add it to the environmental files.
+5. Install Pip and Tweepy, also took more time than expected since I didn't know how to insstall directly from Command.
+6. Run the code with test text. These were the tweets of malaphors posted to @BalfourBot for several days.
+7. Reserach how to execute a code from online.
+8. Install Heroku/Git to get the code online.
+9. Git unable to execute so decide if I should try to fix it now or find a different execution program.
+10. Found a new execution program, upload code and text files.
+11. Run the code.
+12. Done, get everyone to read the steps on Twitter.
